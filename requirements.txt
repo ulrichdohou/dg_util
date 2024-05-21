@@ -7,6 +7,6 @@ pytest
 torch
 torchvision
 tqdm
-git+https://github.com/ytdl-org/youtube-dl.git
+git+https://github.com/ytdl-org/youtube-dl.git@master#egg=youtube-dl
 tensorflow==1.15.2
 imagesize
